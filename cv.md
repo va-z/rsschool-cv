@@ -4,9 +4,9 @@ A JavaScript developer from Tyumen, Russia.
 
 ## Contacts
 
-**Phone**: +7 909 183 9\* \*\*
-**Email**: vasilizadorojnyuk@gmail.com
-**GitHub**: @va-z
+- **Phone**: +7 909 183 9\* \*\*
+- **Email**: vasilizadorojnyuk@gmail.com
+- **GitHub**: @va-z
 
 ## About
 
