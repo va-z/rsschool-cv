@@ -11,7 +11,7 @@ A JavaScript developer from Tyumen, Russia.
 
 ## About
 
-An aspiring developer focused on delivering robust web interfaces and a dream of making it big on the browser games market!
+An aspiring developer and a focus on delivering robust web interfaces and a dream of making it big on the browser games market!
 
 ## Skills
 
@@ -44,10 +44,10 @@ One of my earlier projects. An adaptive multi-page website for a fictional pet f
 
 ## Education
 
-- _2020 - present_ - The Rolling Scopes School - Front-End Course
+- _2020 - present_ - The Rolling Scopes School - Front-end web development
 - _2018 - present_ - Self-taught - Web development
 - _2015_ - Tyumen State University of Architecture and Civil Engineering - Civil Engineer
 
 ## English
 
-**C1 proficiency**. A lifetime learner and the 2012 runner-up in the Tyumen Oblast English student Olympiad:
+**C1 proficiency**. A lifetime learner and the 2012 runner-up in the Tyumen Oblast English student Olympiad.
